@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "";
+$config['botToken'] = "7188390646:AAFLBSRYvOBq4BsbS7o1XtMDXaOna1qECBM";
 
 /*
 |--------------------------------------------------------------------------
@@ -63,10 +63,10 @@ $config['db']['database'] =  "checkerbot";
 |--------------------------------------------------------------------------
 |
 | Anti-Spam Timer to prevent Spammers from Spamming the Checker
-| Value is in Seconds. "20" = 20seconds
+| Value is in Seconds. "0" = 0seconds
 |
 */
-$config['anti_spam_timer'] =  "20";
+$config['anti_spam_timer'] =  "0";
 
 /*
 |--------------------------------------------------------------------------
